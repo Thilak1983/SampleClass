@@ -6,8 +6,8 @@ public class SampleClass1 {
 		
 		
 		System.out.println("Projeck1");
-		System.out.println("Projeck2");
-		System.out.println("Projeck3");
+		System.out.println("Projeck4");
+		System.out.println("Projeck5");
 		
 		
 	}
